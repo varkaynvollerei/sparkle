@@ -1,15 +1,14 @@
 [
     {
-        "name": "Cat Theme",
-        "description": "A theme about cats.",
-        "preview": "preview.png",
+        "name": "Sparkle Theme",
+        "description": "Sparkle ehe.",
         "usercss": "user.css",
         "schemes": "color.ini",
         "include": ["https://varkaynvollerei.github.io/sparkle/theme.js"],
         "readme": "README.md",
         "authors": [
-            { "name": "Adrien5902", "url": "https://github.com/varkaynvollerei" }
+            { "name": "VarkaynVollerei", "url": "https://github.com/varkaynvollerei" }
         ],
-        "tags": ["cat"]
+        "tags": ["anime"]
     }
 ]
